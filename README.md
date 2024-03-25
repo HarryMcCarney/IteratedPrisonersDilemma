@@ -1,4 +1,4 @@
-This is an f# implementation of RObert Axelrod's classic Prisoner's dilemma tournament held in 1984. 
+This is an F# implementation of Robert Axelrod's classic Prisoner's dilemma tournament held in 1984. 
 It successfully reproduces the results described in his book [The Evolution of Cooperation](https://en.wikipedia.org/wiki/The_Evolution_of_Cooperation) 
 and includes the most interesting strategies including Tit For Tat, Grudger, Tit for Two Tats, and Tester.
 
